@@ -1,7 +1,7 @@
 {
 	"name": "Theft Of Cell",
 	"short_name": "Theft Of Cell",
-	"description": "",
+	"description": "Você é um garoto de 21 anos e ganhou na Ultra Cena! E seu incrível sonho é comprar um celular, mas você não pode ser roubado no jogo.",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
