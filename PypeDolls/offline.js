@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1667674473,
+	"version": 1668004973,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,12 @@
 		"images/item-sheet0.png",
 		"images/item-sheet1.png",
 		"images/car-sheet0.png",
+		"images/tilegps-sheet0.png",
+		"images/tilegps-sheet1.png",
+		"images/tilegps-sheet2.png",
+		"images/lowgasolineui-sheet0.png",
+		"images/gmui_gasolinebar-sheet0.png",
+		"images/pointgps-sheet0.png",
 		"images/btn.png",
 		"images/ftdf.png",
 		"media/pypedolls-musicmenu.m4a",
