@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1668183495,
+	"version": 1668193711,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,6 +29,7 @@
 		"images/player-sheet0.png",
 		"images/gun-sheet0.png",
 		"images/bala-sheet0.png",
+		"images/bala-sheet1.png",
 		"images/enemy-sheet0.png",
 		"images/item-sheet0.png",
 		"images/item-sheet1.png",
@@ -36,6 +37,8 @@
 		"images/btn.png",
 		"images/ftdf.png",
 		"images/markgcar-sheet0.png",
+		"media/tiro.m4a",
+		"media/tiro.ogg",
 		"media/pypedolls-musicmenu.m4a",
 		"media/pypedolls-musicmenu.ogg",
 		"icon-16.png",
