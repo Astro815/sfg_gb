@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1668283606,
+	"version": 1668566983,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,8 +38,8 @@
 		"images/pausebg-sheet0.png",
 		"images/selectbutton-sheet0.png",
 		"images/selectbutton-sheet1.png",
-		"images/btn.png",
-		"images/ftdf.png",
+		"images/button.png",
+		"images/textbtn.png",
 		"media/tiro.m4a",
 		"media/tiro.ogg",
 		"media/selectbtn.m4a",
@@ -48,6 +48,7 @@
 		"media/cl-coingold.ogg",
 		"media/clt-coin.m4a",
 		"media/clt-coin.ogg",
+		"media/car.ogg",
 		"media/pypedolls-musicmenu.m4a",
 		"media/pypedolls-musicmenu.ogg",
 		"media/gmsong-1_vono.m4a",
