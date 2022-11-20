@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1668566983,
+	"version": 1668975973,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,9 +28,10 @@
 		"images/gpsui-sheet1.png",
 		"images/player-sheet0.png",
 		"images/gun-sheet0.png",
+		"images/gun-sheet1.png",
 		"images/bala-sheet0.png",
-		"images/bala-sheet1.png",
 		"images/enemy-sheet0.png",
+		"images/enemy-sheet1.png",
 		"images/item-sheet0.png",
 		"images/item-sheet1.png",
 		"images/car-sheet0.png",
