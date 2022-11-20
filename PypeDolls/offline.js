@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1668975973,
+	"version": 1668983102,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,7 @@
 		"images/tile-sheet2.png",
 		"images/gmui_gasolinebar-sheet0.png",
 		"images/gmui-sheet0.png",
+		"images/gmui-sheet1.png",
 		"images/lowgasolineui-sheet0.png",
 		"images/txtlegentgm.png",
 		"images/pointgps-sheet0.png",
