@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1669507563,
+	"version": 1669566401,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,6 +44,7 @@
 		"images/selectbutton-sheet1.png",
 		"images/button.png",
 		"images/textbtn.png",
+		"images/textwd.png",
 		"media/tiro.m4a",
 		"media/tiro.ogg",
 		"media/selectbtn.m4a",
